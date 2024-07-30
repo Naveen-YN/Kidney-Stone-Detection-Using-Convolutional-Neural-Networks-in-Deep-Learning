@@ -1,0 +1,4 @@
+tensorflow
+PyQt5
+pillow
+numpy
